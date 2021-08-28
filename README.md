@@ -9,8 +9,10 @@ Questions possible:<br>
   <li>“Alexa, ask NYC Guide about the Statue of Liberty.”</li>
 </ul>
 Questions to-do:<br>
-“Alexa, ask NYC Guide what time it is in NYC.”<br>
-“Alexa, ask NYC Guide about the weather in NYC.”<br>
-“Alexa, ask NYC Guide for the top five restruants eat at.”<br>
+<ul>
+  <li>“Alexa, ask NYC Guide what time it is in NYC.”</li>
+  <li>“Alexa, ask NYC Guide about the weather in NYC.”</li>
+  <li>“Alexa, ask NYC Guide for the top five restruants eat at.”</li>
+</ul>
 <br>
 This skill uses AWS Lambda, the Alexa Skills Kit (ASK), and the ASK SDK. All answers were copied from there associated Wikipedia articles.
