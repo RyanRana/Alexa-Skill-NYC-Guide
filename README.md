@@ -18,4 +18,4 @@ Questions to-do:
 </ul>
 
 <br>
-This skill uses AWS Lambda, the Alexa Skills Kit (ASK), and the ASK SDK. All answers were copied from there associated Wikipedia articles.
+This skill uses AWS Lambda, the Alexa Skills Kit (ASK), and the ASK SDK. All answers were copied from there associated Wikipedia articles. You download or clone this repostiry and add questions, or use it as a template for a guide to another subject as long as I am given credit. If you plan on doing that make sure you download the node_modules folder from the internet.
