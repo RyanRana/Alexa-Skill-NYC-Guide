@@ -3,10 +3,11 @@
 An Alexa skill that provides information on attractions in New York City.
 <br><br>
 Questions possible:<br>
-“Alexa, ask NYC Guide what there is to do.”<br>
-“Alexa, ask NYC Guide about the Statue of Liberty.”<br>
-“Alexa, ask NYC Guide for the top five things to do.”<br>
-<br>
+<ul>
+  <li>“Alexa, ask NYC Guide what there is to do.”</li>
+  <li>“Alexa, ask NYC Guide for the top five things to do.”</li>
+  <li>“Alexa, ask NYC Guide about the Statue of Liberty.”</li>
+</ul>
 Questions to-do:<br>
 “Alexa, ask NYC Guide what time it is in NYC.”<br>
 “Alexa, ask NYC Guide about the weather in NYC.”<br>
