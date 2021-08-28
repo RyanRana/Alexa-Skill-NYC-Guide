@@ -1,0 +1,39 @@
+getOverview more information about New York City
+getOverview what's it like in  New York City
+getOverview tell me some facts about  New York City 
+getOverview facts about  New York City 
+getOverview overview of  New York City
+getOverview  New York City facts 
+getOverview  New York City overview
+
+getOverview more information about NYC
+getOverview what's it like in   NYC
+getOverview tell me some facts about  NYC 
+getOverview facts about   NYC 
+getOverview overview of  NYC
+getOverview   NYC facts 
+getOverview   NYC overview
+
+getTopFiveIntent tell me the top five things 
+getTopFiveIntent top five things to do 
+getTopFiveIntent give me the top five 
+getTopFiveIntent the top five
+getTopFiveIntent top five
+getTopFiveIntent the top five things to do
+
+getAttractionIntent tell me a good attraction 
+getAttractionIntent where should I go
+getAttractionIntent an attraction
+getAttractionIntent attractions 
+
+getMoreInfoIntent open number {attraction}
+getMoreInfoIntent number {attraction}
+getMoreInfoIntent {attraction}
+
+getNewsIntent tell me the local news
+getNewsIntent what is the latest news 
+getNewsIntent the local news
+getNewsIntent the latest news 
+getNewsIntent the news
+getNewsIntent news
+getNewsIntent local news
