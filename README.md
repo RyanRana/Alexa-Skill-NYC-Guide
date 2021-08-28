@@ -8,7 +8,7 @@ Questions possible:
   <li>“Alexa, ask NYC Guide for the top five things to do.”</li>
   <li>“Alexa, ask NYC Guide about the Statue of Liberty.”</li>
 </ul>
-Questions to-do:
+Questions to-do:<br>
 <ul>
   <li>“Alexa, ask NYC Guide what time it is in NYC.”</li>
   <li>“Alexa, ask NYC Guide about the weather in NYC.”</li>
